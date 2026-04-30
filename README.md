@@ -4,12 +4,12 @@ Widget gratuito para mostrar la tasa oficial del dólar BCV (Banco Central de Ve
 
 ## Características
 
-- Muestra la tasa oficial USD/VES del BCV
-- Actualización automática (cada 5 minutos)
-- Incluye variación respecto al día anterior
-- Diseño responsivo (se adapta a móviles y desktop)
-- Enlace al histórico completo
-- 100% gratuito, sin registro ni API key
+- ✅ Muestra la tasa oficial USD/VES del BCV
+- ✅ Actualización automática (cada 30 minutos)
+- ✅ Incluye variación respecto al día anterior
+- ✅ Diseño responsivo (se adapta a móviles y desktop)
+- ✅ Enlace al histórico completo
+- ✅ 100% gratuito
 
 ## Instalación
 
@@ -41,7 +41,6 @@ MIT - Libre para uso comercial y personal.
 ## Enlaces relacionados
 
 - Historico completo del dolar BCV: https://retoma.net/dolar-bcv.php
-- API del dolar BCV: https://retoma.net/api/dolar-proxy.php
 - Retoma.net: https://retoma.net
 
 ---
