@@ -18,3 +18,12 @@ Copia y pega este código donde quieras que aparezca el widget:
 ```html
 <script src="https://retoma.net/widget-dolar.js"></script>
 <div id="retoma-dolar-widget"></div>
+
+## 🎨 Vista previa
+
+Puedes ver el widget en acción en:  
+👉 [https://retoma.net/widget.html](https://retoma.net/widget.html)
+
+![Widget Dólar BCV](https://retoma.net/widget-preview.png)
+
+*Si no ves la imagen, puedes probar el widget en el enlace de arriba.*
